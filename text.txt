@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Detection upload function 
 test for second time
+=======
+Detection upload function 
+>>>>>>> b6a51f272500e828e8abda43ccbc7994ceed2132
